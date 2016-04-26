@@ -1,1 +1,3 @@
-This is a model for AOQ in stoch / markov chains.
+This is a model for AOQ in stoch / markov chains.  The program was originally run in python and only did outputs to screen for quick analysis of different parameters.  It was requested that plotting be added and that a user could see the results of
+the run.  Python was being run on a server so I altered the code to run on JS so the browser could display Google Chart API The html / JS version works well for sample sizes of 100,000 or less.  At one million it will stall  your browser and takes awhile.
+
